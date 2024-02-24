@@ -126,4 +126,4 @@ async def freecc():
                         "http://tm.maniazones.com/forum/index.php?topic=34224")
                     last_reminder_sent = datetime.datetime.now()
         await asyncio.sleep(60)  
-client.run("MTIwODM3NDY3MDY3NjQ2Nzc1Mg.G-OpCC.eJEqNerKJhYx2ek_QWd4ixvrqtPrIYSA43GMrM")
+client.run("nou")
